@@ -1,6 +1,6 @@
 # Personal Page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b687159-b285-4bd6-940c-c2065ac8ce7c/deploy-status)](https://app.netlify.com/sites/rubenamorim/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/beb89cff-ad08-4bbb-927a-046d00e74c9c/deploy-status)](https://app.netlify.com/sites/rubenamorim/deploys)
 
 ## Available Scripts
 

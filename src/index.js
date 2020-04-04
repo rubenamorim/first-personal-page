@@ -5,4 +5,9 @@ import ComingSoon from './pages/coming-soon/ComingSoon';
 
 import './index.css';
 
-ReactDOM.render(<ComingSoon />, document.getElementById('root'));
+ReactDOM.render(
+    <React.StrictMode>
+        <ComingSoon />
+    </React.StrictMode>,
+    document.getElementById('root')
+);
