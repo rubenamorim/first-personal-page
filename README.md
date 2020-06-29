@@ -1,7 +1,5 @@
 # Personal Page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/beb89cff-ad08-4bbb-927a-046d00e74c9c/deploy-status)](https://app.netlify.com/sites/rubenamorim/deploys)
-
 ## Available Scripts
 
 In the project directory, you can run:
