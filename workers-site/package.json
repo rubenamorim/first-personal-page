@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "first-personal-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "~0.0.11"
+  }
+}

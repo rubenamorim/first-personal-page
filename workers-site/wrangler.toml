@@ -1,0 +1,9 @@
+name = "first-personal-page"
+type = "webpack"
+route="$CF_ROUTE"
+account_id = "$CF_ACCOUNT_ID"
+zone_id = "$CF_ZONE_ID"
+
+[site]
+bucket = "../build"
+entry-point = "."
