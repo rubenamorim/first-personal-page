@@ -2,10 +2,12 @@
   "name": "personal-page",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "@cloudflare/kv-asset-handler": "^0.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

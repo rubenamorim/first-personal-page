@@ -1,0 +1,9 @@
+name = "first-personal-page"
+type = "webpack"
+
+[site]
+bucket = "build"
+entry-point = "."
+
+[env.production]
+route = "https://rubenamorim.dev/*"
